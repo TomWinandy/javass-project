@@ -13,3 +13,4 @@ A game turn consists of a succession of 9 tricks. At the start of each trick, a 
 When all the players have laid a card, the team that laid the highest card wins the trick, and all the points of the cards that compose it. The player with the highest card is the one who places the first card of the next trick.
 The image below shows the second trick of the first round of a game of Jass. It's up to the human player (Ola) to play, and according to the rules he can only put down his ten or queen of spades, which is why these cards are highlighted."
 
+![alt text](https://github.com/TomWinandy/javass-project/blob/main/example.png?raw=true)
